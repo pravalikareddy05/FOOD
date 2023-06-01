@@ -225,12 +225,19 @@ p{
     color:burlywood;
     font-size: 1.3rem;
 }
-.review{
+.food-1{
     margin-left: 3rem;
-    margin-top: 4rem;
+    margin-top: 2rem;
     color:#f43f5e;
     font-size: 1.3rem;
-    
 }
+.food-2{
+    margin-left: 3rem;
+    margin-top: 2rem;
+    color: aliceblue;
+    font-size: 1.3rem;
+}
+
+
 
 
