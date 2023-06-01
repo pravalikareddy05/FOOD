@@ -211,5 +211,19 @@ select{
     margin-left: 13rem;
     margin-top: -9rem;
 }
+.resto h2{
+    font-size: 3rem;
+    margin-top: 6rem;
+}
+.resto h3{
+    font-size: 2rem;
+    margin-top: -0.5rem;
+}
+p{
+    margin-left: 6rem;
+    margin-top: 3rem;
+    color:burlywood;
+    font-size: 1.3rem;
+}
 
 
