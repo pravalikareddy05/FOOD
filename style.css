@@ -60,7 +60,7 @@ h3{
     height: 150px;
     width: 150px;
     border-radius: 2rem;
-    margin-left: 10rem;
+    margin-left: 8rem;
     margin-top: 2rem;
     cursor: pointer;
 }
@@ -68,7 +68,7 @@ h3{
     height: 150px;
     width: 150px;
     border-radius: 2rem;
-    margin-left: 10rem;
+    margin-left: 13rem;
     margin-top: 2rem;
     cursor: pointer;
 }
@@ -76,7 +76,7 @@ h3{
     height: 150px;
     width: 150px;
     border-radius: 2rem;
-    margin-left: 10rem;
+    margin-left: 13rem;
     margin-top: 2rem;
     cursor: pointer;
 }
@@ -84,7 +84,7 @@ h3{
     height: 150px;
     width: 150px;
     border-radius: 2rem;
-    margin-left: 10rem;
+    margin-left: 8rem;
     margin-top: 2rem;
     cursor: pointer;
 }
@@ -92,7 +92,7 @@ h3{
     height: 150px;
     width: 150px;
     border-radius: 2rem;
-    margin-left: 10rem;
+    margin-left: 13rem;
     margin-top: 2rem;
     cursor: pointer;
 }
@@ -100,7 +100,7 @@ h3{
     height: 150px;
     width: 150px;
     border-radius: 2rem;
-    margin-left: 10rem;
+    margin-left: 13rem;
     margin-top: 2rem;
     cursor: pointer;
 }
@@ -115,8 +115,7 @@ h3{
 .submenu-one{
     padding: 0.5rem 2.5rem ;
     border-radius: 2rem;
-    margin-left: 10.5rem;
-    margin-top: 1rem;
+    margin-left: 9rem;
     cursor: pointer;
     border-style: none;
     background-color: #f43f5e;
@@ -124,8 +123,7 @@ h3{
 .submenu-two{
     padding: 0.5rem 2.5rem ;
     border-radius: 2rem;
-    margin-left: 11.5rem;
-    margin-top: 2rem;
+    margin-left: 15.5rem;
     cursor: pointer;
     border-style: none;
     background-color: #f43f5e;
@@ -133,8 +131,7 @@ h3{
 .submenu-three{
     padding: 0.5rem 2.5rem ;
     border-radius: 2rem;
-    margin-left: 11rem;
-    margin-top: 2rem;
+    margin-left: 15rem;
     cursor: pointer;
     border-style: none;
     background-color: #f43f5e;
@@ -142,8 +139,7 @@ h3{
 .submenu-four{
     padding: 0.5rem 2.5rem ;
     border-radius: 2rem;
-    margin-left: 10.5rem;
-    margin-top: 1rem;
+    margin-left: 9rem;
     cursor: pointer;
     border-style: none;
     background-color: #f43f5e;
@@ -151,77 +147,22 @@ h3{
 .submenu-five{
     padding: 0.5rem 2.5rem ;
     border-radius: 2rem;
-    margin-left: 11.5rem;
-    margin-top: 2rem;
+    margin-left: 15.5rem;
     cursor: pointer;
     border-style: none;
     background-color: #f43f5e;
 }
 .submenu-six{
-    padding: 0.5rem 2rem ;
-    border-radius: 2rem;
-    margin-left: 10rem;
-    margin-top: 2rem;
-    cursor: pointer;
-    border-style: none;
-    background-color: #f43f5e;
-}
-
-.submenu-1{
     padding: 0.5rem 2.5rem ;
     border-radius: 2rem;
-    margin-left: 11.4rem;
-    margin-top: 1rem;
+    margin-left: 15rem;
     cursor: pointer;
     border-style: none;
     background-color: #f43f5e;
-}
-.submenu-2{
-    padding: 0.5rem 2.5rem;
-    border-radius: 2rem;
-    margin-left: 13rem;
-    margin-top: 1rem;
-    cursor: pointer;
-    border-style: none;
-    background-color: #f43f5e;
-}
-.submenu-3{
-    padding: 0.5rem 2.5rem;
-    border-radius: 2rem;
-    margin-left: 12rem;
-    cursor: pointer;
-    border-style: none;
-    background-color: #f43f5e;
-    margin-top: 1rem;
 }
 
-.submenu-4{
-    padding: 0.5rem 2.5rem;
-    border-radius: 2rem;
-    margin-left: 11rem;
-    margin-top: 1rem;
-    cursor: pointer;
-    border-style: none;
-    background-color: #f43f5e;
-}
-.submenu-5{
-    padding: 0.5rem 2.5rem;
-    border-radius: 2rem;
-    margin-left: 13.5rem;
-    cursor: pointer;
-    border-style: none;
-    background-color: #f43f5e;
 
-}
-.submenu-6{
-    padding: 0.5rem 1.5rem;
-    border-radius: 2rem;
-    margin-left: 11rem;
-    cursor: pointer;
-    border-style: none;
-    background-color: #f43f5e;
-    margin-top: 1rem;
-}
+
 .order{
     margin-top: 17rem;
     color: #f43f5e;
@@ -232,14 +173,43 @@ h3{
 }
 .btn{
     display: flex;
-    width: 80%;
-    font-weight: 500;
-    padding: 5px;
-    color: #f43f5e;
+}
+.deco{
+    border: none;
+    color:#f43f5e;
+    background-color: white;
     border-radius: 0.5rem;
-    border-color: black;
-    cursor: pointer;
-    transition: all 0.3s;
+    padding: 5px 0 ;
+}
+select{
+    width: 150px;
+    text-align: center;
+    color: black;
+}
+.set-one{
+    margin-left: 19rem;
+    margin-top: -9rem;
+}
+
+.set-two{
+    margin-left: 13rem;
+    margin-top: -9rem;
+}
+.set-three{
+    margin-left: 13rem;
+    margin-top: -9rem;
+}
+.set-four{
+    margin-left: 19rem;
+    margin-top: -9rem;
+}
+.set-five{
+    margin-left: 13rem;
+    margin-top: -9rem;
+}
+.set-six{
+    margin-left: 13rem;
+    margin-top: -9rem;
 }
 
 
