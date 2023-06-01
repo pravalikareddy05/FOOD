@@ -232,7 +232,7 @@ h3{
 }
 .btn{
     display: flex;
-    width: 110%;
+    width: 80%;
     font-weight: 500;
     padding: 5px;
     color: #f43f5e;
@@ -240,67 +240,6 @@ h3{
     border-color: black;
     cursor: pointer;
     transition: all 0.3s;
-    
 }
-.btn-5{
-    display: flex;
-    width: 170%;
-    font-weight: 500;
-    padding: 5px;
-    color: #f43f5e;
-    border-radius: 0.5rem;
-    cursor: pointer;
-    transition: all 0.3s;
-}
-.btn-6{
-    display: flex;
-    width: 170%;
-    font-weight: 500;
-    padding: 5px;
-    color: #f43f5e;
-    border-radius: 0.5rem;
-    cursor: pointer;
-    transition: all 0.3s;
-}
-.btn-5:hover{
-    background:black;
-    color: #f43f5e;
-}
-.btn-6:hover{
-    background:black;
-    color: #f43f5e;
-}
-.btn:hover{
-    background:black;
-    color: #f43f5e;
-}
-.set-one{
-    margin-left: 10rem;
-    margin-top: 2rem;
-   
-}
-.set-two{
-    margin-left: 10rem;
-    margin-top: 2rem;
-}
-.set-three{
-    margin-left: 9rem;
-    margin-top: 2rem;
-}
-.set-four{
-    margin-left: 10rem;
-    margin-top: 2rem;
-}
-.set-five{
-    margin-left: 10.5rem;
-    margin-top: 2rem;
-}
-.set-six{
-    margin-left: 13rem;
-    margin-top: 2rem;
-}
-    
-    
-
 
 
