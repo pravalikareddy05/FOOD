@@ -38,7 +38,7 @@ li a:hover{
 h3{
     color: white;
     text-align: center;
-    margin-top: 7rem;
+    margin-top: 5rem;
 }
 .social-links{
     padding-left: 37rem;
@@ -224,6 +224,13 @@ p{
     margin-top: 3rem;
     color:burlywood;
     font-size: 1.3rem;
+}
+.review{
+    margin-left: 3rem;
+    margin-top: 4rem;
+    color:#f43f5e;
+    font-size: 1.3rem;
+    
 }
 
 
