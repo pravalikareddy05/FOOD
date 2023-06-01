@@ -1,0 +1,306 @@
+body{
+    background-image: url('bg.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+h2{
+    text-align: center;
+    color: #f43f5e;
+    margin-top: 2rem;
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+li a{
+    text-decoration: none;
+    color:#d4d4d8;
+    padding: 1rem;
+    
+}
+li a:hover{
+    color: #f43f5e;
+}
+
+.gather h2{
+    color:#f43f5e;
+    margin-top: 9rem;
+    font-size: 4rem;
+}
+
+
+h3{
+    color: white;
+    text-align: center;
+    margin-top: 7rem;
+}
+.social-links{
+    padding-left: 37rem;
+    margin-top: 2rem;
+}
+.social-links .fa{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: black;
+    background-color: #f43f5e;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.image-one img{
+    height: 150px;
+    width: 150px;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.image-two img{
+    height: 150px;
+    width: 150px;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.image-three img{
+    height: 150px;
+    width: 150px;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.image-four img{
+    height: 150px;
+    width: 150px;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.image-five img{
+    height: 150px;
+    width: 150px;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.image-six img{
+    height: 150px;
+    width: 150px;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.row-one{
+    display: flex;
+    
+}
+.row-two{
+    display: flex;
+}
+
+.submenu-one{
+    padding: 0.5rem 2.5rem ;
+    border-radius: 2rem;
+    margin-left: 10.5rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-two{
+    padding: 0.5rem 2.5rem ;
+    border-radius: 2rem;
+    margin-left: 11.5rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-three{
+    padding: 0.5rem 2.5rem ;
+    border-radius: 2rem;
+    margin-left: 11rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-four{
+    padding: 0.5rem 2.5rem ;
+    border-radius: 2rem;
+    margin-left: 10.5rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-five{
+    padding: 0.5rem 2.5rem ;
+    border-radius: 2rem;
+    margin-left: 11.5rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-six{
+    padding: 0.5rem 2rem ;
+    border-radius: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+
+.submenu-1{
+    padding: 0.5rem 2.5rem ;
+    border-radius: 2rem;
+    margin-left: 11.4rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-2{
+    padding: 0.5rem 2.5rem;
+    border-radius: 2rem;
+    margin-left: 13rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-3{
+    padding: 0.5rem 2.5rem;
+    border-radius: 2rem;
+    margin-left: 12rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+    margin-top: 1rem;
+}
+
+.submenu-4{
+    padding: 0.5rem 2.5rem;
+    border-radius: 2rem;
+    margin-left: 11rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+}
+.submenu-5{
+    padding: 0.5rem 2.5rem;
+    border-radius: 2rem;
+    margin-left: 13.5rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+
+}
+.submenu-6{
+    padding: 0.5rem 1.5rem;
+    border-radius: 2rem;
+    margin-left: 11rem;
+    cursor: pointer;
+    border-style: none;
+    background-color: #f43f5e;
+    margin-top: 1rem;
+}
+.order{
+    margin-top: 17rem;
+    color: #f43f5e;
+    text-align: center;
+}
+.select{
+    display: flex;
+}
+.btn{
+    display: flex;
+    width: 110%;
+    font-weight: 500;
+    padding: 5px;
+    color: #f43f5e;
+    border-radius: 0.5rem;
+    border-color: black;
+    cursor: pointer;
+    transition: all 0.3s;
+    
+}
+.btn-5{
+    display: flex;
+    width: 170%;
+    font-weight: 500;
+    padding: 5px;
+    color: #f43f5e;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.btn-6{
+    display: flex;
+    width: 170%;
+    font-weight: 500;
+    padding: 5px;
+    color: #f43f5e;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.btn-5:hover{
+    background:black;
+    color: #f43f5e;
+}
+.btn-6:hover{
+    background:black;
+    color: #f43f5e;
+}
+.btn:hover{
+    background:black;
+    color: #f43f5e;
+}
+.set-one{
+    margin-left: 10rem;
+    margin-top: 2rem;
+   
+}
+.set-two{
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+.set-three{
+    margin-left: 9rem;
+    margin-top: 2rem;
+}
+.set-four{
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+.set-five{
+    margin-left: 10.5rem;
+    margin-top: 2rem;
+}
+.set-six{
+    margin-left: 13rem;
+    margin-top: 2rem;
+}
+    
+    
+
+
+
